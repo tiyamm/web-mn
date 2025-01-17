@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>مقاومت فلسطین</title>
+    <style>
+        body {
+            background-color: #1e1e2e;
+            color: #ffffff;
+            text-align: center;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        img {
+            max-width: 90%;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+        h1 {
+            margin: 20px;
+            color: #ffffff;
+        }
+    </style>
+</head>
+<body>
+    <h1>مقاومت فلسطین</h1>
+    <p>این وبسایت به مقاومت فلسطین اختصاص دارد.</p>
+    <img src="poster.jpg" alt="مقاومت فلسطین">
+</body>
+</html>
